@@ -2,6 +2,7 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm passionate about Data.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karsarma&label=Profile%20views&color=0e75b6&style=flat" alt="karsarma" /> </p>
 
 Skills: Python/R/SQL/JavaScript/Java 
 
