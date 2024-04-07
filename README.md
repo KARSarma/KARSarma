@@ -7,7 +7,8 @@ I'm passionate about Data.
 
 
  
-- 📫 How to reach me: anirudha.kuchibhotla@gmail.com 
+- 📫 How to reach me: anirudha.kuchibhotla@gmail.com
+- 📫 How to reach me: kuchibhotla.an@northeastern.edu
 
 ## 🌐 Socials:
 <a href="https://github.com/KARSarma" target="_blank">
