@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Anirudha
 
 
-I'm passionate about Data.
+Eager Master’s student in Data Analytics Engineering at Northeastern University, with a solid foundation in data analysis, business intelligence, and computer science. Proficient in SQL, Python, R, and data visualization tools like Tableau. Demonstrates a proactive approach to problem-solving and a strong commitment to continuous learning, aiming to contribute to and grow within the oraganization' innovative environment.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsarma&label=Profile%20views&color=0e75b6&style=flat" alt="karsarma" /> </p>
 
 
