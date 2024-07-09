@@ -5,10 +5,13 @@ Hello! I'm an enthusiastic Master's student in Data Analytics Engineering at Nor
 
 I thrive on solving complex problems and am dedicated to continuous learning and growth. My goal is to leverage my skills and knowledge in data science, business intelligence, and data analytics to drive innovation and make meaningful contributions to dynamic organizations.
 
-Interests
+#### Interests
 Business Intelligence: Crafting insightful dashboards and reports to drive strategic decisions.
+
 Data Analytics: Analyzing trends and patterns to provide actionable recommendations.
+
 Data Science: Building predictive models and utilizing machine learning to uncover hidden insights.
+
 I am eager to contribute to an innovative environment where I can collaborate with like-minded professionals and grow my expertise in the field.
 
 Let's connect and explore how we can turn data into impactful solutions!
