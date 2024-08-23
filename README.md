@@ -6,6 +6,11 @@
 ### About Me
 Hello! I'm an enthusiastic Master's student in Data Analytics Engineering at Northeastern University, with a passion for transforming data into actionable insights. My journey in data science and analytics is driven by a deep curiosity about how data can influence decision-making and business strategy.
 
+### My Current Status
+- 🔎 Actively seeking Co-op/Internship opportunities in Data Science, Data Engineering, Data Analytics, or Business Intelligence.
+- 💼 Working on innovative projects that blend data analysis, machine learning, and business intelligence.
+- 💡 I have a passion for exploring how data-driven decisions can be applied in the stock market and across various domains.
+
 ### My Journey
 - ✨ I began my journey into data through a strong foundation in computer science, leading to a deep interest in data analysis and business intelligence.
 - 💡 My career trajectory was shaped by my experiences in solving complex problems using data. From building dashboards that inform strategic decisions to developing predictive models, I've always been fascinated by the power of data.
@@ -13,10 +18,6 @@ Hello! I'm an enthusiastic Master's student in Data Analytics Engineering at Nor
 - 📈 My academic and professional experiences have involved working on projects that include analyzing trends, providing actionable recommendations, and uncovering hidden insights through machine learning.
 - 🎓 I've continuously expanded my knowledge by engaging in various projects and internships, which have solidified my understanding of business intelligence, data science, and analytics.
 
-### My Current Status
-- 🔎 Actively seeking Co-op/Internship opportunities in Data Science, Data Engineering, Data Analytics, or Business Intelligence.
-- 💼 Working on innovative projects that blend data analysis, machine learning, and business intelligence.
-- 💡 I have a passion for exploring how data-driven decisions can be applied in the stock market and across various domains.
 
 ### Interests
 - **Business Intelligence**: Crafting insightful dashboards and reports to drive strategic decisions.
