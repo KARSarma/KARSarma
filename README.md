@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 40px;">Hi there 👋, I'm Anirudha</strong>
+  <strong style="font-size: 90px;">Hi there 👋, I'm Anirudha</strong>
 </p>
 
 ### About Me
