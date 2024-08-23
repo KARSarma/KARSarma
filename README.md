@@ -41,7 +41,7 @@ I'm always eager to connect with like-minded professionals and explore how we ca
   <a href="mailto:anirudha.kuchibhotla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://public.tableau.com/profile/anirudha.kuchibhotla" target="_blank">
+  <a href="[https://public.tableau.com/profile/anirudha.kuchibhotla](https://public.tableau.com/app/profile/k.anirudha.raghava.sarma/vizzes)" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
   </a>
 </p>
