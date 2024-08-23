@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>Hi there 👋, I'm <strong>Anirudha</strong></h1>
-</p>
+</div>
 
 
 ### About Me
