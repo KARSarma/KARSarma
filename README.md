@@ -1,4 +1,7 @@
-Hi there 👋, I'm Anirudha
+<p align="center">
+  <h1 style="font-size: 2.5em;">Hi there 👋, I'm <b>Anirudha</b></h1>
+</p>
+
 About Me
 Hello! I'm an enthusiastic Master's student in Data Analytics Engineering at Northeastern University, with a passion for transforming data into actionable insights. My journey in data science and analytics is driven by a deep curiosity about how data can influence decision-making and business strategy.
 
