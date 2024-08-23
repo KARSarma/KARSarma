@@ -34,14 +34,14 @@ I'm always eager to connect with like-minded professionals and explore how we ca
 
 ### Connect with Me
 
-<p>
-   <a href="https://www.linkedin.com/in/anirudha-kuchibhotla-86a1241a0/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudha-kuchibhotla-86a1241a0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:anirudha.kuchibhotla@gmail.com" target="_blank">
+  <a href="mailto:anirudha.kuchibhotla@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://public.tableau.com/app/profile/k.anirudha.raghava.sarma/vizzes" target="_blank">
+  <a href="https://public.tableau.com/app/profile/k.anirudha.raghava.sarma/vizzes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
   </a>
 </p>
