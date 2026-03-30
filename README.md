@@ -1,7 +1,10 @@
+<div align="center">
+
 # Hi, I'm Anirudha 👋
 ### AI Engineer · Data Engineer · Data Analyst · Product-minded Builder
 
----
+</div>
+
 
 ## About
 
