@@ -1,58 +1,80 @@
-<div align="center">
-  <h1>Hi there 👋, I'm <strong>Anirudha</strong></h1>
-</div>
-
-
-### About Me
-Hello! I'm an enthusiastic Master's student in Data Analytics Engineering at Northeastern University, with a passion for transforming data into actionable insights. My journey in data science and analytics is driven by a deep curiosity about how data can influence decision-making and business strategy.
-
-### My Current Status
-- 🔎 Actively seeking Co-op/Internship opportunities in Data Science, Data Engineering, Data Analytics, or Business Intelligence.
-- 💼 Working on innovative projects that blend data analysis, machine learning, and business intelligence.
-- 💡 I have a passion for exploring how data-driven decisions can be applied in the stock market and across various domains.
-
-### My Journey
-- ✨ I began my journey into data through a strong foundation in computer science, leading to a deep interest in data analysis and business intelligence.
-- 💡 My career trajectory was shaped by my experiences in solving complex problems using data. From building dashboards that inform strategic decisions to developing predictive models, I've always been fascinated by the power of data.
-- 🚀 While pursuing my master's at Northeastern, I have honed my skills in SQL, Python, R, machine learning, and data visualization tools like Tableau, enabling me to deliver impactful solutions.
-- 📈 My academic and professional experiences have involved working on projects that include analyzing trends, providing actionable recommendations, and uncovering hidden insights through machine learning.
-- 🎓 I've continuously expanded my knowledge by engaging in various projects and internships, which have solidified my understanding of business intelligence, data science, and analytics.
-
-
-### Interests
-- **Business Intelligence**: Crafting insightful dashboards and reports to drive strategic decisions.
-- **Data Analytics**: Analyzing trends and patterns to provide actionable recommendations.
-- **Data Science**: Building predictive models and utilizing machine learning to uncover hidden insights.
-
-### Connect with Me
-I'm always eager to connect with like-minded professionals and explore how we can collaborate to turn data into impactful solutions. Let's connect and discuss how we can drive innovation together!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karsarma&label=Profile%20views&color=0e75b6&style=flat" alt="karsarma" /> </p>
-
-- 📫 How to reach me: anirudha.kuchibhotla@gmail.com
-- 📫 How to reach me: kuchibhotla.an@northeastern.edu
-
-
-### Connect with Me
-
-
-  <a href="https://www.linkedin.com/in/anirudha-kuchibhotla-86a1241a0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anirudha.kuchibhotla@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/k.anirudha.raghava.sarma/vizzes" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  </a>
-
+# Hi, I'm Anirudha 👋
+### AI Engineer · Data Engineer · Data Analyst · Product-minded Builder
 
 ---
 
-On my GitHub profile, I share some of the projects that I've worked on personally and as a part of my academics, including skills in Data Analysis, Data Management, Data Visualization, and Machine Learning.
+## About
 
+I build AI and data systems that work in the real world, not just in notebooks. I have worked across the full lifecycle of data and AI, from building pipelines and running analytics to shipping LLM-powered applications in production. I have built things solo and worked with cross-functional teams, and I always bring product thinking into my engineering work because understanding the why matters as much as the how.
 
 ---
 
+## Currently
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔎 Actively looking for full-time roles in AI Engineering, Data Engineering, Data Analytics, or MLOps
+
+🛠️ Building production AI systems including a multilingual voice AI platform with speech recognition, OCR, retrieval, and text-to-speech
+
+📣 Sharing what I learn publicly around LLMs, voice AI, and building AI-native products
+
+---
+
+## Experience
+
+I have spent my career building AI and data systems that work in production and hold up over time. I have automated workflows that saved thousands of hours, shipped agentic platforms serving hundreds of professionals, built pipelines processing millions of records, and made sure the stakeholders depending on these systems always had what they needed to make decisions.
+
+---
+
+## What I Bring
+
+🔹 Designing and shipping AI systems end to end in production
+
+🔹 Building scalable data pipelines and analytics that drive real decisions
+
+🔹 GenAI and LLM engineering with hands-on experience in RAG, agents, and evaluation
+
+🔹 MLOps and AI DevOps with a focus on deployment, monitoring, and reliability
+
+🔹 Product thinking baked into every technical decision
+
+🔹 Experience working both independently and across product and engineering teams
+
+---
+
+## Technical Stack
+
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0C447C?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0C447C?style=flat&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0C447C?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0C447C?style=flat&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0C447C?style=flat&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-0C447C?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0C447C?style=flat&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-085041?style=flat&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-085041?style=flat&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-085041?style=flat&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-085041?style=flat&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-085041?style=flat&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-3C3489?style=flat&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-3C3489?style=flat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3C3489?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3C3489?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-3C3489?style=flat&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-3C3489?style=flat&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-633806?style=flat&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-633806?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-633806?style=flat&logoColor=white)
+
+---
+
+## Education
+
+**MS in Data Analytics Engineering · Northeastern University**
+GPA 3.8 / 4.0 · Sep 2023 – Jul 2025
+
+---
+
+## Reach Me
+
+📫 anirudha.kuchibhotla@gmail.com
